@@ -1,5 +1,5 @@
 # Criando um Novo Usuário no Banco de Dados
-  `Como criar usuário no banco de dados, dar permissões, e depois, removê-lo.`
+  `Como criar usuário no banco de dados, dar permissões e, depois, removê-lo.`
 
 Criado com base no banco de dados AulaDB, da cadeira de Banco de Dados II, do professor [Alex Souza](https://github.com/aasouzaconsult) @aasouzaconsult
 
